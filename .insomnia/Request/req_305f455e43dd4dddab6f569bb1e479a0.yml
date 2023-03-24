@@ -1,0 +1,21 @@
+_id: req_305f455e43dd4dddab6f569bb1e479a0
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841099
+created: 1679673841099
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/strengths"
+name: DeleteStrengths
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677361972977.6875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

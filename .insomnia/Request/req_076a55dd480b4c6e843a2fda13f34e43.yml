@@ -1,0 +1,63 @@
+_id: req_076a55dd480b4c6e843a2fda13f34e43
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841080
+created: 1679673841080
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/contacts"
+name: SendContacts
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    [
+    	{		
+    		"email": "mail@mail.com",
+    		"address": "ул. Ленина, д. 75, оф. 18",
+    		"city": {
+    			"title": "Санкт-Петербург"
+    		},
+    		"phone": "+79999999999",
+    		"geo": {
+    			"lat": "30.966554",
+    			"lon": "59.6654488"
+    		}
+    	},
+    	{		
+    		"email": "mailnew@mail.com",
+    		"address": "ул. Пушкина, д. 12, оф. 25",
+    		"city": {
+    			"title": "Новосибирск"
+    		},
+    		"phone": "+79998888888",
+    		"geo": {
+    			"lat": "55.030204",
+    			"lon": "82.920430"
+    		}
+    	},
+    	{
+    		"email": "mailtver@mail.com",
+    		"address": "ул. Гоголя, д. 28, оф. 2",
+    		"city": {
+    			"title": "Тверь"
+    		},
+    		"phone": "+79156666666",
+    		"geo": {
+    			"lat": "56.859625",
+    			"lon": "35.911860"
+    		}
+    	}
+    ]
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1678398309277.4375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

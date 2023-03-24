@@ -1,0 +1,21 @@
+_id: req_23f277844dee4b188e60bc035514532f
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841068
+created: 1679673841068
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/categories"
+name: Categories
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1678182405881.6562
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

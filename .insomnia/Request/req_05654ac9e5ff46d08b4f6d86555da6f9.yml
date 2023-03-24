@@ -1,0 +1,21 @@
+_id: req_05654ac9e5ff46d08b4f6d86555da6f9
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841101
+created: 1679673841101
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/services"
+name: DeleteServices
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677092093732.961
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,10 @@
+_id: fld_f98f74adb3154612a0d4ec110e298b17
+type: RequestGroup
+parentId: wrk_7dd5a0d5027143e5a631fdc421c458eb
+modified: 1679673841066
+created: 1679673841066
+name: Qwork-Insomnia
+description: Qwork-insomnia sync
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1000000000

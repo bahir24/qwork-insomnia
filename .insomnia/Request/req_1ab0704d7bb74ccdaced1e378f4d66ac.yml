@@ -1,0 +1,21 @@
+_id: req_1ab0704d7bb74ccdaced1e378f4d66ac
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841102
+created: 1679673841102
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/photos"
+name: DeletePhotos
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1676919371016.336
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

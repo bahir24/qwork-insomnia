@@ -1,0 +1,21 @@
+_id: req_a2fb853241454feeb7c3f441f43a6d30
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841077
+created: 1679673841077
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/contacts"
+name: Contacts
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1678484670635.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

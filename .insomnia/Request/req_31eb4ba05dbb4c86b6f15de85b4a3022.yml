@@ -1,0 +1,209 @@
+_id: req_31eb4ba05dbb4c86b6f15de85b4a3022
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841073
+created: 1679673841073
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/categories"
+name: SendCategories
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    [
+    	{
+    		"title": "Дед Мороз у вас дома",
+    		"desc": "Мы познакомимся с детьми и покажем им сказку,  в которой главными героями станут сами дети. Благодаря волшебству Деда мороза и помощи детей, произойдет новогоднее чудо. Мы обязательно поиграем с детьми, послушаем их стихи, и ответим на все вопросы Почемучек! В конце праздника обязательное вручение подарков, и фотоссесия.",
+    		"icon": "home",
+    		"services": [
+    			{
+    				"title": "Организация праздников для ТСЖ",
+    				"subTitle": "для самых маленьких",
+    				"desc": "Которые дополняют и украшают программу. После наших праздников дети верят в Деда мороза и его Волшебство!",
+    				"data": [
+    					{
+    						"key": "Возраст",
+    						"value": "4-7 лет"
+    					},
+    					{
+    						"key": "Длительность",
+    						"value": "2-4 часа"
+    					}
+    				],
+    				"img": "/assets/img/services/street/street-1.jpg",
+    				"thumb": "/assets/img/services/street/thumbs/street-1.jpg"
+    			},
+    			{
+    				"title": "Мероприятия для загородных посёлков",
+    				"subTitle": "Очень весело!",
+    				"desc": "Каждый праздник проводится на высшем уровне, а актеры дарят детям тепло и любовь.",
+    				"data": [
+    					{
+    						"key": "Возраст",
+    						"value": "4-7 лет"
+    					},
+    					{
+    						"key": "Длительность",
+    						"value": "2-4 часа"
+    					}
+    				],
+    				"img": "/assets/img/services/street/street-2.jpg",
+    				"thumb": "/assets/img/services/street/thumbs/street-2.jpg"
+    			},
+    			{
+    				"title": "Гуляния в общественных местах",
+    				"subTitle": "Никто не уйдёт без подарка!",
+    				"desc": "Мы всегда учитываем пожелания заказчиков.  артисты всегда приходят вовремя, а иногда и заранее.",			
+    				"data": [
+    					{
+    						"key": "Возраст",
+    						"value": "4-40 лет"
+    					},
+    					{
+    						"key": "Длительность",
+    						"value": "от 45 минут"
+    					}
+    				],
+    				"img": "/assets/img/services/street/street-3.jpg",
+    				"thumb": "/assets/img/services/street/thumbs/street-3.jpg"
+    			}
+    		]
+    	},
+    	{
+    		"title": "Большой праздник",
+    		"desc": "Веселые, зажигательные истории С дедом морозом снегурочкой и другими героями сказок. Интерактив, оригинальные игры, конкурсы, соревнования, танцы и хороводы! Вручение подарков. Фотосессия.",
+    		"icon": "area",
+    		"services": [
+    			{
+    				"title": "Путешествие",
+    				"subTitle": "Подзаголовок",
+    				"desc": "Мы проводим праздник как по готовым сценариям, или по предложенному вами. Наши сценарии рассчитаны на детей разного возраста.",				
+    				"data": [
+    					{
+    						"key": "Возраст",
+    						"value": "4-7 лет"
+    					},
+    					{
+    						"key": "Длительность",
+    						"value": "45 минут"
+    					}
+    				],
+    				"img": "/assets/img/services/kindergarten/kindergarten-1.jpg",
+    				"thumb": "/assets/img/services/home/thumbs/home-1.jpg"
+    			},
+    			{
+    				"title": "Сказка",
+    				"subTitle": "Подзаголовок",
+    				"desc": "Это всегда необычные истории, в которых есть место ЧУДУ, которого так ждут дети.",				
+    				"data": [
+    					{
+    						"key": "Возраст",
+    						"value": "4-7 лет"
+    					},
+    					{
+    						"key": "Длительность",
+    						"value": "45 минут"
+    					}
+    				],
+    				"img": "/assets/img/services/home/home-2.jpg",
+    				"thumb": "/assets/img/services/home/thumbs/home-3.jpg"
+    			},
+    			{
+    				"title": "Поздравление",
+    				"subTitle": "Подзаголовок",
+    				"desc": "Уникальный, изготовленный под сюжет программы реквизит. Под кажду программу мы изготавливаем бутафорию и реквизит,",
+    				"data": [
+    					{
+    						"key": "Возраст",
+    						"value": "4-7 лет"
+    					},
+    					{
+    						"key": "Длительность",
+    						"value": "45 минут"
+    					}
+    				],
+    				"img": "/assets/img/services/home/home-3.jpg",
+    				"thumb": "/assets/img/services/home/thumbs/home-3.jpg"
+    			}
+    		]
+    	},
+    	{
+    		"title": "Уличные гуляния",
+    		"desc": "Новогоднее уличное гуляние на котором никто не замерзнет! Яркое интерактивное представление для взрослых и детей, с играми, танцами, конкурсами! Широкий выбор дополнительного оборудования (сцена, звук, фото и видео зон,катание на санях с лошадью…)",
+    		"icon": "street",
+    		"services": [
+    			{
+    				"title": "Утренник в детском саду",
+    				"subTitle": "для самых маленьких",
+    				"desc": "Мы всегда звоним и предупреждаем в случае экстренной задержки.",
+    				"data": [
+    					{
+    						"key": "Возраст",
+    						"value": "4-7 лет"
+    					},
+    					{
+    						"key": "Длительность",
+    						"value": "45 минут"
+    					}
+    				],
+    				"img": "/assets/img/services/home/home-1.jpg",
+    				"thumb": "/assets/img/services/home/thumbs/home-1.jpg"
+    			},
+    			{
+    				"title": "Дискотека в школе",
+    				"subTitle": "Очень весело!",
+    				"desc": "Наши профессионалы находят подход к каждому ребенку. Артисты никому не дают почувствовать себя одиноко, и даже самые",
+    				"data": [
+    					{
+    						"key": "Возраст",
+    						"value": "4-7 лет"
+    					},
+    					{
+    						"key": "Длительность",
+    						"value": "2-3 часа"
+    					}
+    				],
+    				"img": "/assets/img/services/home/home-2.jpg",
+    				"thumb": "/assets/img/services/home/thumbs/home-2.jpg"
+    			},
+    			{
+    				"title": "Корпоративная ёлка",
+    				"subTitle": "Никто не уйдёт без подарка!",
+    				"desc": "У нас Вы можете заказать Деда Мороза и Снегурочку Ваш праздник или мероприятие. Поздравление на дому, в школе, детском саду, в офисе и",
+    				"data": [
+    					{
+    						"key": "Возраст",
+    						"value": "4-7 лет"
+    					},
+    					{
+    						"key": "Длительность",
+    						"value": "1-2 часа"
+    					}
+    				],
+    				"img": "/assets/img/services/home/home-3.jpg",
+    				"thumb": "/assets/img/services/home/thumbs/home-3.jpg"
+    			}
+    		]
+    	}
+    ]
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_deebff245df74a8cae00c63cedf74e37
+  - name: "{% savevariable 'categories', 'body', '$.._id' %}"
+    value: ""
+    id: pair_d6ba3f8820fb4e9d9abf952c2f9ee64f
+  - id: pair_ed678684185b403a93faba8ce6a053aa
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1678139225202.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

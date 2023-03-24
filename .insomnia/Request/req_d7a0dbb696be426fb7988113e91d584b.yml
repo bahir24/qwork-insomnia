@@ -1,0 +1,21 @@
+_id: req_d7a0dbb696be426fb7988113e91d584b
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841094
+created: 1679673841094
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/services/service/6416d8f50dd768f2a86ac718"
+name: ServiceById
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677081298563.1719
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

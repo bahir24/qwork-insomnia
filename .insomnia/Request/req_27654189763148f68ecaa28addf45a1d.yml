@@ -1,0 +1,21 @@
+_id: req_27654189763148f68ecaa28addf45a1d
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841095
+created: 1679673841095
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/categories"
+name: DeleteCategories
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1678171610711.8672
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

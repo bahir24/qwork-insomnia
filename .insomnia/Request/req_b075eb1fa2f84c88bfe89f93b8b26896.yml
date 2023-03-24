@@ -1,0 +1,45 @@
+_id: req_b075eb1fa2f84c88bfe89f93b8b26896
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841082
+created: 1679673841082
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/employees"
+name: SendEmployees
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    [
+          {
+            "title": "Аниматоры",
+            "subTitle": "хорошие аниматоры",
+            "desc": ["Мы познакомимся с детьми и покажем им сказку,  в которой главными героями станут сами дети. Благодаря волшебству Деда мороза и помощи детей, произойдет новогоднее чудо. Мы обязательно поиграем с детьми, послушаем их стихи, и ответим на все вопросы Почемучек! В конце праздника обязательное вручение подарков, и фотоссесия."],
+            "img": "/assets/img/employee/animator.jpg"
+          },
+          {
+            "title": "Координаторы",
+            "subTitle": "хорошие координаторы",
+            "desc": ["Веселые, зажигательные истории С дедом морозом снегурочкой и другими героями сказок. Интерактив, оригинальные игры, конкурсы, соревнования, танцы и хороводы! Вручение подарков. Фотосессия."],
+            "img": "/assets/img/employee/manager.jpg"
+          },
+          {
+            "title": "Технические специалисты",
+            "subTitle": "всё умеют",
+            "desc": ["Новогоднее уличное гуляние на котором никто не замерзнет! Яркое интерактивное представление для взрослых и детей, с играми, танцами, конкурсами! Широкий выбор дополнительного оборудования (сцена, звук, фото и видео зон,катание на санях с лошадью…)"],
+            "img": "/assets/img/employee/sound_engineer.jpg"
+          }
+        ]
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1678225586560.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

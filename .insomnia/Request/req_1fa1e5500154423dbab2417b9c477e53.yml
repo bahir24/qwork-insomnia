@@ -1,0 +1,21 @@
+_id: req_1fa1e5500154423dbab2417b9c477e53
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841097
+created: 1679673841097
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/contacts"
+name: DeleteContacts
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1678473875465.961
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

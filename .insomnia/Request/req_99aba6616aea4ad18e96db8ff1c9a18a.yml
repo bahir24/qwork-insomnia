@@ -1,0 +1,21 @@
+_id: req_99aba6616aea4ad18e96db8ff1c9a18a
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841071
+created: 1679673841071
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/strengths"
+name: Strengths
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677448334336
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

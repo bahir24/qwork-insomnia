@@ -1,0 +1,21 @@
+_id: req_49c4787ffa3f4fdfa98a3bce906b9bde
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841098
+created: 1679673841098
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/employees"
+name: DeleteEmployees
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1678268767239.9688
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

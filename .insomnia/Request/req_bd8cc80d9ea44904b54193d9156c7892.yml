@@ -1,0 +1,21 @@
+_id: req_bd8cc80d9ea44904b54193d9156c7892
+type: Request
+parentId: fld_f98f74adb3154612a0d4ec110e298b17
+modified: 1679673841083
+created: 1679673841083
+url: "{{ _.nuxt.host }}:{{ _.nuxt.port }}/contacts/city/6415720df885accbbefb49c4"
+name: ContactByCityId
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1678441489956.5938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
